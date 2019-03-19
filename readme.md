@@ -30,3 +30,12 @@
                    `:osyhddddddddddo++++++oo+:--------------:/+ooo+++yNddddddddy`                   
                    -yyyyyydddddddddy++++oo++ooo+/::----::/+ooo++o++++dmdddddhhyy+/`                 
                    .syyyyyyhhddddddhoo+++oo+++++ooooooooo+++so++o+++omdhhyyyyyyyy+.- 
+
+
+## Konnichiwa
+
+-    clone the repo
+-    composer install / update
+-    config your .env
+-    php artisan migrate
+-    php artisan serve
